@@ -1,4 +1,4 @@
-# The Lightning Permit Challenge
+# The Lightning Residential Building Permit Challenge
 
 **“Because getting a building permit in Canada shouldn’t be harder than building the thing itself.”**
 
