@@ -1,4 +1,4 @@
-Below is a high-level way of “bucketing” the relevant AI research areas:
+Same day buildling permits will require several buckets of AI approaches and tools:
 
 ---
 
