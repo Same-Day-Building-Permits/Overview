@@ -85,8 +85,8 @@ Canada deserves a building permit system that’s fast, simple, and fair. We’v
 
 **Stay Connected**  
 - Website (TBA)  
-- Twitter: [@LightningPermits](#)  
-- LinkedIn: [Lightning Permit Challenge](#)  
+- Twitter: [@LightningPermits](#)  ?
+- LinkedIn: [Lightning Building Permit Challenge](#)  ?
 
 Thanks for reading—and welcome to the team!
 
